@@ -16,8 +16,14 @@ Click [here](https://linkvertise.com/459484/atari-discord-server) to join the Di
 
 ## The Developers
 When it comes to our Developer Team, we have highly trusted and experienced developers with unique capabilites.
-#### Mohammedpro (Co-Founder) and mtyler1 (Website Development)
-#### atari (Founder + Cheat Development)
+#### atari (Founder of Ballistic, Owner)
+#### SirWeeb (Founder of Ballistic)
+#### Mohammedpro (Owner)
+#### ?Che (Website Development, Manager)
+#### Cy (Linux Developer)
+#### Immunelion (DLL Developer)
+#### JJSploit (Support)
+#### Cuby (Helper)
 
 ## Questions/Enquiries 
 If you have any questions or enquiries, feel free to join our [Discord Server](https://linkvertise.com/459484/atari-discord-server).
